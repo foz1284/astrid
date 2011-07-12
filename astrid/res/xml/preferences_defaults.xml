@@ -26,11 +26,5 @@
         android:key="@string/p_rmd_default_random_hours"
         android:title="@string/rmd_EPr_defaultRemind_title"
         android:entries="@array/EPr_reminder_random"
-        android:entryValues="@array/EPr_reminder_random_hours"/>
-    <ListPreference
-        android:key="@string/p_rmd_default_random_hours"
-        android:title="@string/rmd_EPr_defaultRemind_title"
-        android:entries="@array/EPr_reminder_random"
-        android:entryValues="@array/EPr_reminder_random_hours"/>
-        
+        android:entryValues="@array/EPr_reminder_random_hours"/>       
 </PreferenceScreen>
